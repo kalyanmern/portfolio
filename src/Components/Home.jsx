@@ -61,7 +61,7 @@ const Home = () => {
                     <a href="https://www.instagram.com/_its_pawan_d" target="_blank" rel="noopener noreferrer">   
                         <IoLogoInstagram color='white' size={22} className='cursor-pointer'/>
                     </a>
-                    <a href="https://wa.me/9183586589" target="_blank" rel="noopener noreferrer">
+                    <a href="https://wa.me/9182586589" target="_blank" rel="noopener noreferrer">
                         <BsWhatsapp color='white' size={22} className='cursor-pointer'/>
                     </a>    
 
