@@ -4,7 +4,7 @@ import { BsPersonVcardFill } from "react-icons/bs";
 import { BiSolidLayer } from "react-icons/bi";
 import { PiStudent } from "react-icons/pi";
 import { MdOutlineEmail } from "react-icons/md";
-import myphoto from '../Assets/myphoto.jpeg';
+import myphoto from '../assets/myphoto.jpeg';
 import { BsGithub } from "react-icons/bs";
 import { IoLogoInstagram } from "react-icons/io5";
 import { BsWhatsapp } from "react-icons/bs";
